@@ -2,8 +2,9 @@
 
 Silahkan tuliskan kode Javascript berikut :
 <br>
-function regex() {
+function regex() { <br>
  let str = "abcdefghijklmnopqrstuvwxyz";
+ <br>
 }
 <br>
 Berdasarkan kode diatas, silahkan dilengkapi seperti dengan materi sebelumnya 
